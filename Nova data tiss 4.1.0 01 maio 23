@@ -1,0 +1,3 @@
+
+update sigh.params_faturamento set inicio_tiss_4 = '2023-05-01';
+
